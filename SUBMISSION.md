@@ -6,7 +6,7 @@
 
 ## Loom Video
 
-Replace this with your Loom recording link before submission:
+https://www.loom.com/share/7f090812f0eb42be925debb46293091e
 
 `<LOOM_VIDEO_URL>`
 
