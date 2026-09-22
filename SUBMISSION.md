@@ -47,3 +47,13 @@ I investigated and fixed the reported data accuracy and privacy issues in the pr
 - `docker-compose.yml`: PostgreSQL host port changed to `5434` because `5433` was already occupied locally.
 - `.gitignore`: excludes generated dependencies, build output, local environment files, and Python caches.
 - `SUBMISSION.md`: submission details and verification record.
+
+## Commit Timeline
+
+All timestamps use ISO 8601 format with the local `+01:00` offset.
+
+| Timestamp | Commit | Description |
+| --- | --- | --- |
+| 2026-09-22T15:24:51+01:00 | `83b4951` | Fix tenant-isolated revenue dashboard |
+| 2026-09-22T15:35:24+01:00 | `cdaafa5` | Add submission template |
+| 2026-09-22T15:40:50+01:00 | `446de3d` | Document changed assignment files |
